@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "MailReader.Worker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
